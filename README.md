@@ -21,7 +21,7 @@ Creator of EndGames Network (MCPE) (Closed.)
 
 ---
 ## Red Social
-- **Discord**: Skrrr#0666
+- **Discord**: zOmArRD#6095
 
 ---
 [zOmArRD](https://github.com/zOmArRD)
