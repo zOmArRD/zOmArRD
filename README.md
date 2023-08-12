@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, my name is Omar.<br><br>I mainly specialize with PHP, C#, Java.<br><br>I keep studying and learning new things every day.<br><br>I like to create applications, plugins for PocketMine-MP, REST API among other things.
-
+Hello, my name is Omar, I'm a Full Stack developer
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC93RaelgZCE-mbywUQmGfsw) 
